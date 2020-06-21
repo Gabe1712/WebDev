@@ -1,0 +1,1 @@
+(Tutorial 3) no forms.py está-me a dizer na parte do “from flask_wtf import FlaskForm” erro: “Unable to import flask_wtf” e n estou a perceber, sendo q já fiz pip install flask-wtf
